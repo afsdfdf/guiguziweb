@@ -206,7 +206,7 @@ function App() {
       </section>
 
       <footer className="community-bar" id="community">
-        <span>QQ群 823433752</span>
+        <span>QQ群 1101975152</span>
         <a href="https://t.me/GUIGUZI_DAO" target="_blank">TG</a>
         <a href="https://m.debox.pro/group?id=bzqhw6ab&code=rwa7xwk9" target="_blank">Debox</a>
       </footer>

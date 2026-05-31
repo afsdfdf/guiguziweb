@@ -38,7 +38,7 @@ describe('Guiguzi DAO homepage', () => {
   it('renders the official community links and QQ group', () => {
     render(<App />)
 
-    expect(screen.getByText(/823433752/)).toBeInTheDocument()
+    expect(screen.getByText(/1101975152/)).toBeInTheDocument()
     expect(screen.getByRole('link', { name: /TG/i })).toHaveAttribute(
       'href',
       'https://t.me/GUIGUZI_DAO',
